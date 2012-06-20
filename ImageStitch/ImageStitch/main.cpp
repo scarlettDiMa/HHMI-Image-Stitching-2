@@ -3,6 +3,6 @@
 
 int main()
 {
-
+	std::cout<<“3 hours a day”<<endl;
 	return 0;
 }
