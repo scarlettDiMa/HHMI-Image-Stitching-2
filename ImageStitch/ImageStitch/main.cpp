@@ -1,5 +1,6 @@
-// Jason: I haven't included OpenCV's header files nor library files.
-//        You may need to edit your property pages.
+// Jason: The property sheets work on my machine,
+//        but they may not work on yours. You may
+//        need to edit them.
 
 int main()
 {
